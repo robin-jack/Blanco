@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182163235398",
+    "firebase_url": "https://blanco-pro-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "blanco-pro",
+    "storage_bucket": "blanco-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182163235398:android:5b7b5d2a440b008a536047",
+        "android_client_info": {
+          "package_name": "com.jacklabs.blanco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182163235398-gatj03mrh9u4mlt0eosfh686rresj58a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jacklabs.blanco",
+            "certificate_hash": "9ba2978392f01a96e78570902a35c760952ee1dc"
+          }
+        },
+        {
+          "client_id": "182163235398-88h95pttica5eh4ijfdtk2h74rneq9ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe6ysyuyAXggdQl4G5legmNAPOgZqQq48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182163235398-88h95pttica5eh4ijfdtk2h74rneq9ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
